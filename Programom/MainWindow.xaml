@@ -1,0 +1,43 @@
+﻿<Window x:Class="Programom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Programom"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="675" Width="1200">
+    <Border Padding="10">
+            <StackPanel Background="Orange">
+                <TextBlock Text="Kell szöveg" FontSize="17"/>
+                <TextBox Padding="2"/>
+                <TextBlock Text="Ide is kell" FontSize="20"/>
+                <RichTextBox Padding="1" FontFamily="Times New Roman" FontSize="16"/>
+
+                <!-- Itt már grid van, mert így lehet oszlopokba rendezni -->
+            
+                <Grid Margin="10 30 10 30">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Margin="0 0 10 0">
+                    <TextBlock Text="Kell szöveg" FontSize="17"/>
+                    <TextBox Padding="2"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" Margin="0 0 10 0">
+                    <TextBlock Text="Kell szöveg" FontSize="17"/>
+                    <TextBox Padding="2"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2" Margin="0 0 10 0">
+                    <TextBlock Text="Kell szöveg" FontSize="17"/>
+                    <TextBox x:Name="Szövegbuborék" MouseEnter="Szövegbuborék_MouseEnter" Padding="2"/>
+                </StackPanel>
+
+            </Grid>
+            </StackPanel>
+        </Border>
+</Window>
