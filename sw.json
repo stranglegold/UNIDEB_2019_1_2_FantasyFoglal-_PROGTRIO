@@ -1,0 +1,72 @@
+{
+'game': {
+'Title': 'Star Wars',
+'kérdések': 
+[
+{'id': 1,
+'answer': 4,
+'question': 'Mi a neve a Főgonosznak?',
+'answers':
+  [
+  'Luke Skywalker',
+  'Han Solo',
+  'Ben Kenobi',
+  'Palpatine'
+  ] 
+},
+{
+'id': 2,
+'answer': 1,
+'question': 'Mi a Havas bolygó neve?',
+'answers':
+  [
+  'Hoth',
+  'Tatooine',
+  'Korusant',
+  'Endor'
+  ] 
+},
+{
+'id': 3,
+'answer': 2,
+'questions': 'Kicsoda Darth Vader?',
+'answers':
+  [
+  'Én',
+  'Anakin Skywalker',
+  'Yoda',
+  'Mace Windoo'
+  ] 
+}
+]
+},
+'game' :{
+'Title': 'Gyűrűk Ura',
+'kérdések': 
+[
+{ 'id': 1,
+'answer': 4,
+'question': 'Mi a neve az Tündének?',
+'answers':
+  [
+  'Luke Skywalker',
+  'Sanyi az erős',
+  'Shepherd',
+  'Legolas'
+  ] 
+},
+{ 
+'id': 2,
+'answer': 1,
+'question': 'A 3. részben melyik város ostromolják az orkok?',
+'answers':
+  [
+  'Gondor',
+  'Rohan',
+  'Vasudvard',
+  'Sziklavár'
+  ] 
+}
+]
+}
+}
