@@ -1,7 +1,7 @@
 {
-'game': {
+'SW': {
 'Title': 'Star Wars',
-'kérdések': 
+'Kérdések': 
 [
 {'id': 1,
 'answer': 4,
@@ -29,7 +29,7 @@
 {
 'id': 3,
 'answer': 2,
-'questions': 'Kicsoda Darth Vader?',
+'question': 'Kicsoda Darth Vader?',
 'answers':
   [
   'Én',
@@ -37,12 +37,36 @@
   'Yoda',
   'Mace Windoo'
   ] 
+},
+{
+'id': 4,
+'answer': 3,
+'question': 'Kit csókol meg legelőször Leia?',
+'answers':
+  [
+  'Han Solo-t',
+  'Darth Vader-t',
+  'Luke Skywalker-t',
+  'Ben Kenobi-t'
+  ] 
+},
+{
+'id': 5,
+'answer': 1,
+'question': 'Ki a kiválasztott?',
+'answers':
+  [
+  'Anakin Skywalker',
+  'Darth Vader',
+  'Obi-Wan Kenobi',
+  'Yoda mester'
+  ] 
 }
 ]
 },
-'game' :{
+'LOTR' :{
 'Title': 'Gyűrűk Ura',
-'kérdések': 
+'Kérdések': 
 [
 { 'id': 1,
 'answer': 4,
@@ -69,4 +93,4 @@
 }
 ]
 }
-}
+}"
