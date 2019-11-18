@@ -43,3 +43,5 @@ A játéknak a legszélesebb körben elérhetőnek kell lennie, tehát úgy szá
 Mivel könyvekből / filmekből / játékokból ismerhető világokról van szó, a célcsoport mindenki, aki ezeket fogyasztja. Bár a telefon és a számítógép alapszintű használata gondot jelenthet a 40 év felettiek számára, maga a termék nem mutathat ezen az igényen felül.
 
 A használati esetek széleskörűek. Lesz aki telefonon fog játszani utazás, vagy egyéb fajta várakozás apropóján. Lesz olyan, aki egy unalmas tanórát tölt el vele. Lesz aki jelentős órákat fog a játékkal tölteni, hogy jobban elmerülhessen egy adott világ lore-jában. Ezek következtében tehát egy-egy mérkőzésnek legfeljebb 10 percesnek kell lennie, és végeredménytől függetlenül valamilyen szintű sikerélményt kell nyújtania.
+
+Készítette: Nagy László
