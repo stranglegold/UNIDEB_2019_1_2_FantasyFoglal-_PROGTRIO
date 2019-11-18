@@ -104,12 +104,12 @@ o	Képrernyőterv:
 
 8.Tesztterv:
 
-    Vizsgált funkció      	                           input	                elvárt eredmény            	eredmény  megfelelő-e?
-bejelentkezés	4 karakternél rövidebb felhasználónév 	sikertelen	              sikertelen	                    megfelelt
-bejelentkezés	sikeres színválasztás	                    sikeres	                  sikeres	                      megfelelt
-kérdés hozzáadás	kevesebb mint 4 válasz megadása	    sikertelen	              sikertelen	                    megfelelt
-kérdés hozzáadás	pontosan 4 válasz megadása	          sikeres	                  sikeres	                      megfelelt
-kérdés törlése	nincs kijelölt kérdés	                sikertelen	              sikertelen	                    megfelelt
+    Vizsgált funkció      	         input	                    eredmény                elvárt eredmény           eredmény  megfelelő-e?
+    bejelentkezés       4 karakternél rövidebb felhasználónév 	sikertelen	            sikertelen	                  megfelelt
+    bejelentkezés       sikeres színválasztás	                sikeres	                sikeres	                      megfelelt
+    kérdés hozzáadás    kevesebb mint 4 válasz megadása	        sikertelen	            sikertelen	                  megfelelt
+    kérdés hozzáadás	pontosan 4 válasz megadása	            sikeres	                sikeres	                      megfelelt
+    kérdés törlése	    nincs kijelölt kérdés	                sikertelen	            sikertelen	                  megfelelt
 
 9. Telepítési terv
 
