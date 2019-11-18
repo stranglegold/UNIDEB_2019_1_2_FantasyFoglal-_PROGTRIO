@@ -130,3 +130,4 @@ o	Képrernyőterv:
 
 •	biztonsági beállítások folyamatos felülvizsgálata és szükség esetén korrigálásuk.
 
+A rendszerterv dokumentációt Demeter Ádám készítette.
